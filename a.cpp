@@ -12,6 +12,8 @@ int main()
 	{
 		mmm[1]= 111;
 	}
+
+
     cout << mmm[1] << endl;
     int a = 0;
 	int b = 0;
